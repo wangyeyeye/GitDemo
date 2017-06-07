@@ -3,9 +3,9 @@ package com.git;
 public class Demo {
 	private String demo = "demo";
 	
-	private String demo2 = "demo2";
+	private String demo = "demo2";
 
-
+	345
 	public String getDemo() {
 		return demo;
 	}
@@ -13,5 +13,4 @@ public class Demo {
 	public void setDemo(String demo) {
 		this.demo = demo;
 	}
-	1111111111111111111
 }
